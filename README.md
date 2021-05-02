@@ -1,7 +1,7 @@
 <html>
     <title>Грибочки</title>
-    <body style="text-align:center"
-        <header style="background-color:#fcf4e8;"/> 
+    <body style="text-align:center">
+        <header style="background-color:#fcf4e8;"> 
             <img src="https://learn.algoritmika.org/uploads/student/774490/5-1619367922.jpg" width="20px"/>
             <a href="#phone">Телефон и эмэйл </a>
         </header>
